@@ -6,7 +6,7 @@
 	<groupId>com.example</groupId>
 	<artifactId>rest-test</artifactId>
 	<version>1.0.0</version>
-	<packaging>jar</packaging>
+	<packaging>war</packaging>
 
 	<name>rest-test</name>
 	<description>Rest API for Test Case</description>
